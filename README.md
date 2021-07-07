@@ -1,2 +1,2 @@
-# data_management
+# Data management
 Some of my data management code samples
